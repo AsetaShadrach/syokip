@@ -22,3 +22,10 @@ Then exit the container <br>
 - move all env type variables to env
 - Add unllocated ips to get
 - Still working on (production) addons for redis and Postgres
+
+
+## Endpoints
+- {{base_url}}/allocate
+- {{base_url}}/release/{ip}
+- {{base_url}}/allocated
+- {{base_url}}/available
