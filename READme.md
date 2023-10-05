@@ -21,3 +21,4 @@ Then exit the container <br>
 - autocreate db if missing
 - move all env type variables to env
 - Add unllocated ips to get
+- Still working on (production) addons for redis and Postgres
